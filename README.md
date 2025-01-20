@@ -12,7 +12,7 @@
 
 ## 📫 How to Reach Me
 - 📧 Email: [nckmuhire@gmail.com](mailto:nckmuhire@gmail.com)
-- 🔗 LinkedIn: [linkedin.com/in/yanick-sadi](https://linkedin.com/in/yanick-sadi)
+- 🔗 LinkedIn: [linkedin.com/in/ishimwe-muhire-sadi](https://www.linkedin.com/in/ishimwe-muhire-sadi/)
 
 ---
 
