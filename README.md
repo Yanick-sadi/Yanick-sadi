@@ -1,7 +1,7 @@
 - # Hi there, I'm Yanick Sadi 👋
 
 ## 🚀 About Me
-- 🎓 Final-year student in Business and Information Technology
+- 🎓 Final-year student in Information Technology
 - 🌱 Currently building a **Personal Finance Management App**
 - ⚡ Fun fact: I love exploring tech that solves real-world problems!
 
