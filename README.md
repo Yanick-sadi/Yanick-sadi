@@ -6,7 +6,7 @@
 - ⚡ Fun fact: I love exploring tech that solves real-world problems!
 
 ## 🌟 My Projects
-- [**Personal & Forex Management App**](https://github.com/Yanick-sadi/TrackItFinance-App)
+- [**TrackItFinance App**](https://github.com/Yanick-sadi/TrackItFinance-App)
   - Manage income, expenses, and savings
   - Features: transaction tracking, reporting, and analysis
 
