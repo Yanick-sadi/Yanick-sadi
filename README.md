@@ -2,11 +2,11 @@
 
 ## 🚀 About Me
 - 🎓 Final-year student in Information Technology
-- 🌱 Currently building a **Personal Finance Management App**
+- 🌱 Currently building a **Personal & Forex Managment App**
 - ⚡ Fun fact: I love exploring tech that solves real-world problems!
 
 ## 🌟 My Projects
-- [**Personal Finance Management App**](https://github.com/Yanick-sadi/Personal-Finance-App)
+- [**Personal & Forex Management App**](https://github.com/Yanick-sadi/Personal-Finance-App)
   - Manage income, expenses, and savings
   - Features: transaction tracking, reporting, and analysis
 
